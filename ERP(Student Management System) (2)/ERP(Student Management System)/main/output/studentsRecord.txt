@@ -1,0 +1,28 @@
+Roll No. :3339945
+Name :Rajesh
+DOB :03/01/2000
+Gender :Male
+Contact :5646531863
+Address :pata nahi kha ka hai
+============================================
+Roll No. :2229981
+Name :Aniket Gupta
+DOB :02/12/2002
+Gender :Male
+Contact :7717604056
+Address :Bhamian Khurd,Mahavir Colony,Ludhiana
+============================================
+Roll No. :2229982
+Name :Aniket Teswar
+DOB :02/05/2003
+Gender :Male
+Contact :656832168
+Address :pata nahi
+============================================
+Roll No. :2229986
+Name :Rahul
+DOB :03/11/2000
+Gender :Male
+Contact :5461679353
+Address :ludhiana
+============================================

@@ -1,0 +1,3 @@
+Course: Maths	 Day: Monday	 Time: 9:00 A.M.
+Course: OOPS	 Day: Monday	 Time: 10:00 A.M.
+Course: DE	 Day: Tuesday	 Time: 12:00
